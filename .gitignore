@@ -1,0 +1,25 @@
+# Office 临时/锁文件（Word、Excel 打开时生成）/ Office temp and lock files created while Word or Excel is open
+~$*
+*.tmp
+
+# macOS 系统文件 / macOS system files
+.DS_Store
+._*
+
+# Windows 系统文件 / Windows system files
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# 编辑器与 IDE 配置 / Editor and IDE settings
+.vscode/
+.idea/
+*.swp
+
+# Python 缓存（生成脚本使用）/ Python cache used by generator scripts
+__pycache__/
+*.pyc
+
+# 本地私有数据，不随仓库发布 / Local private data, not for publishing
+*.local.md
+temp/

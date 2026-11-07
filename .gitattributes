@@ -1,0 +1,4 @@
+# 统一换行，避免文档在 Windows/macOS 下出现行尾差异
+# Normalize line endings across Windows/macOS
+* text=auto eol=lf
+*.md text eol=lf
