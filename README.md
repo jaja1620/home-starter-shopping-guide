@@ -32,10 +32,13 @@ A move-in shopping list for a two-person household — 83 items across 19 catego
 
 ## 快速开始 Quick Start
 
+> 仓库内提供的是双语 Markdown 版；配套 Word 与 Excel 印刷版为中文单语，未随仓库分发。
+> This repository ships the bilingual Markdown edition; the Chinese-only Word and Excel print editions are not bundled here.
+
 ### 用 Excel 版 Use the Excel version
 
-1. 打开 `两人过日子采购清单.xlsx`，在“采购清单”页逐行核对数量。
-   Open `两人过日子采购清单.xlsx` and review quantities row by row on the “采购清单” sheet.
+1. 打开配套 Excel 工作簿（未随仓库分发），在“采购清单”页逐行核对数量；仓库内等价内容见 [采购清单](docs/purchase-checklist.md)。
+   Open the companion Excel workbook (not bundled) and review quantities row by row; the bilingual equivalent is [purchase-checklist.md](docs/purchase-checklist.md).
 
 2. “是否已有”填“是”，对应金额会自动从实际支出中扣减；“是否已购”记录下单进度。
    Set “是否已有” (already owned) to “是”, and the amount is deducted from actual spending automatically; use “是否已购” (purchased) to track order progress.
@@ -46,8 +49,8 @@ A move-in shopping list for a two-person household — 83 items across 19 catego
 
 ### 用 Word 版 Use the Word version
 
-1. 打开 `两人过日子采购指南.docx`，先看第一章三档预算口径，确认自己属于哪一档。
-   Open `两人过日子采购指南.docx` and start with the three budget tiers in chapter 1.
+1. 打开配套 Word 版（未随仓库分发），先看第一章三档预算口径，确认自己属于哪一档；仓库内等价内容见 [采购指南](docs/buying-guide.md)。
+   Open the companion Word edition (not bundled) and start with the three budget tiers; the bilingual equivalent is [buying-guide.md](docs/buying-guide.md).
 
 2. 第三章按 19 个分类列明细，第四章讲大家电选购与安装前置条件，第五章补日用小件。
    Chapter 3 lists items by category, chapter 4 covers major appliances and installation prerequisites, chapter 5 covers small daily necessities.
